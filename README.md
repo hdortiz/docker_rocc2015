@@ -12,11 +12,14 @@ Contenido de la Presentacion
 * Alcances 
 * Microsoft?
 * DEMO
-	* Mostrar como se instala
 	* docker run
 	* correr un proceso en un OS
+	* como ver los contenedores que estan ejecutandose
+	* como hacer que un contenedor se ejecute automaticamente
+	* como modificar una magen 
 	* Como hacer deploy de una app web / apache
-
+	* Conectar otro contenedor con mysql
+	* GUI
 ToDo
 ====
 * Buscar Imagenes de buena calidad de contenedores
