@@ -1,7 +1,7 @@
 Presentación de Docker para la ROC&C 2015
 =========================================
 
-*Contenido de la Presentación
+**Contenido de la Presentación**
 
 
 * Agenda
