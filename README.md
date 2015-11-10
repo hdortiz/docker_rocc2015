@@ -5,15 +5,12 @@ Contenido de la Presentacion
 ============================
 
 * Presentarme
-* Hablar del problema que soluciona con VM y con docker
-* Que es docker
-* Como mejora la VM Ventajas sobre Virtualizacion
-* Como ha crecido el projecto al 2015
-* Alcances 
+* Agenda
+* Antecedentes: Hablar del problema que soluciona con VM y con contenedores
+* Que son los contenedores? ventajas sobre VM
+* Que es Docker? Como funciona?
+* Productos y conceptos de Docker
 * Microsoft?
-	- Como funcionaria en Windows
-	- Que se puede poner en contenedores?
-	- Windows Server Containers???
 * DEMO
 	- docker run
 		$ docker run 
